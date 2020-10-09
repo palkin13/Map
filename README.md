@@ -1,2 +1,2 @@
-# Map
+# Mapping
 Created with CodeSandbox
